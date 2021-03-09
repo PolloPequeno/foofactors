@@ -14,3 +14,6 @@ c(a, b)
 
 
 fbind(a, b)
+
+
+fcount(iris$Species)
