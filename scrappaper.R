@@ -3,6 +3,7 @@ library(fs)
 require(tidyverse)
 library(foofactors)
 library(testthat)
+library(covr)
 
 
 a <- factor(c("character", "hits", "your", "eyeballs"))
